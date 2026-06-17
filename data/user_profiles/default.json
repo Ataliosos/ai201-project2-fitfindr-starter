@@ -1,0 +1,101 @@
+{
+  "user_id": "default",
+  "created_at": "2026-06-16T20:47:19.656857",
+  "last_updated": "2026-06-16T21:09:08.967416",
+  "style_preferences": {
+    "aesthetics": [
+      "grunge",
+      "streetwear",
+      "vintage"
+    ],
+    "occasions": [],
+    "avoided_styles": [],
+    "fit_preferences": [],
+    "color_palette": [],
+    "price_sensitivity": "budget"
+  },
+  "wardrobe": {
+    "style_profile": [],
+    "items": []
+  },
+  "interaction_history": [
+    {
+      "timestamp": "2026-06-16T20:47:19.656879",
+      "query": "designer ballgown size XXS under $5",
+      "outcome": "success",
+      "item_title": "Oversized Flannel Shirt \u2014 Plaid Red/Black",
+      "item_price": 22.0,
+      "item_platform": "thredUp",
+      "item_style_tags": [
+        "grunge",
+        "vintage",
+        "flannel",
+        "streetwear",
+        "layering"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T20:47:21.453952",
+      "query": "vintage graphic tee size XXL under $20",
+      "outcome": "success",
+      "item_title": "Graphic Tee \u2014 2003 Tour Bootleg Style",
+      "item_price": 24.0,
+      "item_platform": "depop",
+      "item_style_tags": [
+        "graphic tee",
+        "vintage",
+        "grunge",
+        "streetwear",
+        "band tee"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:04:40.466016",
+      "query": "designer ballgown size XXS under $5",
+      "outcome": "no_results",
+      "item_title": null,
+      "item_price": null,
+      "item_platform": null,
+      "item_style_tags": []
+    },
+    {
+      "timestamp": "2026-06-16T21:04:44.050972",
+      "query": "vintage graphic tee size XXL under $20",
+      "outcome": "success",
+      "item_title": "Bucket Hat \u2014 Reversible, Brown Plaid",
+      "item_price": 14.0,
+      "item_platform": "thredUp",
+      "item_style_tags": [
+        "90s",
+        "streetwear",
+        "vintage",
+        "accessories"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:09:05.679207",
+      "query": "designer ballgown size XXS under $5",
+      "outcome": "no_results",
+      "item_title": null,
+      "item_price": null,
+      "item_platform": null,
+      "item_style_tags": []
+    },
+    {
+      "timestamp": "2026-06-16T21:09:08.943640",
+      "query": "vintage graphic tee size XXL under $20",
+      "outcome": "success",
+      "item_title": "Bucket Hat \u2014 Reversible, Brown Plaid",
+      "item_price": 14.0,
+      "item_platform": "thredUp",
+      "item_style_tags": [
+        "90s",
+        "streetwear",
+        "vintage",
+        "accessories"
+      ]
+    }
+  ],
+  "favorite_items": [],
+  "total_sessions": 6
+}

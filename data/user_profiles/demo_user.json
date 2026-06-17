@@ -1,0 +1,121 @@
+{
+  "user_id": "demo_user",
+  "created_at": "2026-06-16T20:47:15.496602",
+  "last_updated": "2026-06-16T21:09:05.290972",
+  "style_preferences": {
+    "aesthetics": [
+      "cottagecore",
+      "grunge",
+      "streetwear",
+      "vintage",
+      "y2k"
+    ],
+    "occasions": [
+      "business casual",
+      "casual",
+      "internship",
+      "interviews"
+    ],
+    "avoided_styles": [],
+    "fit_preferences": [
+      "oversized"
+    ],
+    "color_palette": [],
+    "price_sensitivity": null
+  },
+  "wardrobe": {
+    "style_profile": [],
+    "items": []
+  },
+  "interaction_history": [
+    {
+      "timestamp": "2026-06-16T20:47:15.496627",
+      "query": "I need an outfit for a casual summer internship interview under $150.",
+      "outcome": "success",
+      "item_title": "Knit Cardigan \u2014 Chunky Brown",
+      "item_price": 35.0,
+      "item_platform": "depop",
+      "item_style_tags": [
+        "cottagecore",
+        "cozy",
+        "oversized",
+        "earth tones",
+        "knitwear"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T20:47:17.402098",
+      "query": "Business casual look that is me.",
+      "outcome": "success",
+      "item_title": "Low-Rise Cargo Pants \u2014 Khaki",
+      "item_price": 27.0,
+      "item_platform": "poshmark",
+      "item_style_tags": [
+        "y2k",
+        "cargo",
+        "2000s",
+        "streetwear"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:04:36.322449",
+      "query": "I need an outfit for a casual summer internship interview under $150.",
+      "outcome": "success",
+      "item_title": "Mesh Long-Sleeve Top \u2014 Black",
+      "item_price": 15.0,
+      "item_platform": "depop",
+      "item_style_tags": [
+        "y2k",
+        "grunge",
+        "goth",
+        "layering"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:04:40.007266",
+      "query": "Business casual look that is me.",
+      "outcome": "success",
+      "item_title": "Vintage Linen Blazer \u2014 Cream",
+      "item_price": 38.0,
+      "item_platform": "thredUp",
+      "item_style_tags": [
+        "vintage",
+        "classic",
+        "linen",
+        "cottagecore",
+        "minimal"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:09:02.094717",
+      "query": "I need an outfit for a casual summer internship interview under $150.",
+      "outcome": "success",
+      "item_title": "Mesh Long-Sleeve Top \u2014 Black",
+      "item_price": 15.0,
+      "item_platform": "depop",
+      "item_style_tags": [
+        "y2k",
+        "grunge",
+        "goth",
+        "layering"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T21:09:05.271694",
+      "query": "Business casual look that is me.",
+      "outcome": "success",
+      "item_title": "Vintage Linen Blazer \u2014 Cream",
+      "item_price": 38.0,
+      "item_platform": "thredUp",
+      "item_style_tags": [
+        "vintage",
+        "classic",
+        "linen",
+        "cottagecore",
+        "minimal"
+      ]
+    }
+  ],
+  "favorite_items": [],
+  "total_sessions": 6
+}

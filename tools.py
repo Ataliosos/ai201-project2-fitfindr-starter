@@ -288,7 +288,13 @@ def create_fit_card(
     else:
         price_line = f"${new_item.get('price')} on {new_item.get('platform')}"
 
-    prompt = f"""Write a casual Instagram or TikTok caption for a thrift outfit post.
+    prompt = f"""Write in the voice of a young man who likes vintage streetwear and business casual fashion.
+Use masculine or gender-neutral language.
+Avoid phrases like "I'm obsessed," "adorable," or references to defining the waist.
+The tone should sound relaxed, confident, and natural, like:
+"This blazer was a solid thrift find."
+"Clean fit for work and still comfortable."
+"Perfect for grabbing coffee or hanging out."
 
 The outfit:
 {outfit}
